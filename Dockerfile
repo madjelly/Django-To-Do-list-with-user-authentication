@@ -6,8 +6,6 @@ COPY . /home/app
 
 WORKDIR /home/app
 
-RUN yum install python27-python-pip
-
 EXPOSE 8080
 EXPOSE 8000
 
