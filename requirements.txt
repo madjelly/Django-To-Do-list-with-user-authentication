@@ -9,7 +9,6 @@ cryptography==2.8
 docker==3.7.3
 docker-compose==1.25.0
 dockerpty==0.4.1
-duplicity==0.8.12.0
 entrypoints==0.3
 fasteners==0.14.1
 future==0.18.2
