@@ -6,7 +6,7 @@ COPY . /home/app
 
 WORKDIR /home/app
 
-RUN dnf update pip
+RUN rpm update pip
 
 RUN pip install -r requirements.txt
 
