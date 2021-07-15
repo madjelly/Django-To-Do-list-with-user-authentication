@@ -30,7 +30,6 @@ paramiko==2.6.0
 pexpect==4.6.0
 Pillow==5.4.1
 protobuf==3.6.1
-pycairo==1.16.2
 pycups==1.9.73
 PyGObject==3.32.1
 PyJWT==1.7.1
