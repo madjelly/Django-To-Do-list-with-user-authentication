@@ -6,7 +6,7 @@ COPY . /home/app
 
 WORKDIR /home/app
 
-RUN rpm update pip
+RUN pip install --upgrade pip
 
 RUN pip install -r requirements.txt
 
